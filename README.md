@@ -23,7 +23,10 @@ GaitSet Recognization Based Intellgent Door
 4. 开发
 5. 调试组装
 
-### 项目基础结构（分模块）
+
+
+
+## 项目基础结构（分模块）
 
 1. #### 主控制模块
 
